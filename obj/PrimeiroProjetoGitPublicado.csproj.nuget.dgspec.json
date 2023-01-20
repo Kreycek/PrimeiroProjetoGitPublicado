@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj": {}
+    "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj": {
+    "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj",
+        "projectUniqueName": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj",
         "projectName": "PrimeiroProjetoGitPublicado",
-        "projectPath": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj",
+        "projectPath": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj",
         "packagesPath": "C:\\Users\\Kreycek\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado\\obj\\",
+        "outputPath": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kreycek\\AppData\\Roaming\\NuGet\\NuGet.Config",

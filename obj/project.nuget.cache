@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7TDNa5P8Dbmg5wCdxuDyR5w64cBOw7OEY0/Y1CW0byXGc6xiobzvVoSgv04kkYCwrEHNdjDlb3IoAcTiwwr9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\PluralSight\\Projects\\PrimeiroProjetoGitPublicado\\PrimeiroProjetoGitPublicado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kreycek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

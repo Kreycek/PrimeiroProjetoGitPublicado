@@ -1,0 +1,16 @@
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.exe
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.deps.json
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.runtimeconfig.json
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.runtimeconfig.dev.json
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.dll
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\ref\PrimeiroProjetoGitPublicado.dll
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\bin\Debug\net5.0\PrimeiroProjetoGitPublicado.pdb
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.csproj.AssemblyReference.cache
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.AssemblyInfoInputs.cache
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.AssemblyInfo.cs
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.csproj.CoreCompileInputs.cache
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.dll
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\ref\PrimeiroProjetoGitPublicado.dll
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.pdb
+C:\Projetos\PluralSight\Projects\PrimeiroProjetoGitPublicado\obj\Debug\net5.0\PrimeiroProjetoGitPublicado.genruntimeconfig.cache
